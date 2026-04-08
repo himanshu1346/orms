@@ -1,0 +1,26 @@
+# Database Credentials
+initialize.php
+
+# User Uploads
+uploads/
+
+# Temporary Files
+tmp/
+*.log
+error_log
+_notes
+
+# Build/Distribution
+build/
+dist/
+
+# IDE/OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Database (keep orms_db.sql as template, ignore others)
+database/backup_*.sql
+database/*.zip
+database/*.rar
