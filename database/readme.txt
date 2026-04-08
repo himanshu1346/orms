@@ -23,9 +23,9 @@ FIRST Download
 7.Run the script http://localhost/orms
 
 ---------------------------------------------------
-Admin Access
-email: admin
-password: admin123
+Admin Access (Default)
+username: admin
+password: YourChosenPassword
 ----------------------------------------------------
 
 create your own
